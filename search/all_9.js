@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['ifs',['IFS',['../struct_send_peer_stats.html#a9ff5f45631dba4ebe6e984303852e768',1,'SendPeerStats']]],
+  ['inblockleft',['inBlockLeft',['../class_endpoint.html#af9ca728a4dcadcc82aa179bec2ab3990',1,'Endpoint']]],
+  ['inblockright',['inBlockRight',['../class_endpoint.html#a872031b66e99f759023033a6b96d28de',1,'Endpoint']]],
+  ['inblocks',['inBlocks',['../class_endpoint.html#aa75476860805b0327547c5c3e16a27bf',1,'Endpoint']]],
+  ['inblocksadded',['inBlocksAdded',['../struct_endpoint_stats.html#a2f0ea55cc545b9c480972f14267d3b8e',1,'EndpointStats']]],
+  ['incoming',['incoming',['../class_block.html#a60b325986dd7822b8a068028f5399b9ca31fd065b02bdf67c76a082a72ff99846',1,'Block']]],
+  ['inflight',['inFlight',['../class_conn_state.html#a455fcb0e63f918e2c44626cbfbff0e86',1,'ConnState']]],
+  ['inflighttotal',['inFlightTotal',['../class_conn_state.html#a8a9324b577392d636a91a7cbf1f29fe9',1,'ConnState']]],
+  ['initialtokens',['initialTokens',['../class_conn_state.html#abe636ba0fa77cfd5bb5008246317caf8',1,'ConnState']]],
+  ['initpkt',['INITPKT',['../packet_8h.html#a0a80a7bc045affcf10846075b88cbca0a182e9381ab803d9a0ae648e82599c7b0',1,'packet.h']]],
+  ['inst_5flogger',['INST_LOGGER',['../logging_8h.html#afe5ff6938e374f8ade78ba781a4a742e',1,'logging.h']]],
+  ['ipv4addr',['IPV4ADDR',['../socks_8h.html#a726ca809ffd3d67ab4b8476646f26635a41a2af6094b629ff55ffa5c5057c3ab2',1,'socks.h']]],
+  ['ipv6addr',['IPV6ADDR',['../socks_8h.html#a726ca809ffd3d67ab4b8476646f26635a60fcd1aae081e932c21eda20a9191232',1,'socks.h']]],
+  ['isackpkt',['isAckPkt',['../packet_8h.html#ab0d053a1728be2a4b3c60f3f09d6d1e7',1,'packet.h']]],
+  ['isfatackpkt',['isFatAckPkt',['../packet_8h.html#a88a147345556482633f78dcb660dabd5',1,'packet.h']]],
+  ['isshutdown',['isShutdown',['../class_conn_state.html#ae6297c6118bae5b36a68a3fd07b444b6',1,'ConnState']]]
+];
